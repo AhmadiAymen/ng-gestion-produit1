@@ -1,0 +1,28 @@
+{
+  "produits": [
+    {
+      "id": "3",
+      "code": "y10",
+      "designation": "salon en cuir",
+      "prix": 3000
+    },
+    {
+      "id": "10",
+      "code": "dd",
+      "designation": "c",
+      "prix": "100"
+    },
+    {
+      "id": "1",
+      "code": "z45",
+      "designation": "444",
+      "prix": "20"
+    },
+    {
+      "id": "2222",
+      "code": "1",
+      "designation": "1",
+      "prix": "1"
+    }
+  ]
+}
